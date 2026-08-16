@@ -1,0 +1,21 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.base.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.controls.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.fxml.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.graphics.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.media.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.swing.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx.web.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\javafx-swt.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\jdk.jsobject.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\jfx.incubator.input.jar",
+        "c:\\csd\\csd-420\\javafx-sdk-26.0.2\\lib\\jfx.incubator.richtext.jar",
+        "java.project.referencedLibraries": [
+    "C:csd/csd-420/javafx-sdk-26.0.2/lib*.jar"
+  ]
+    ]
+}
