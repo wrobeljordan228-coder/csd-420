@@ -1,0 +1,3 @@
+Java python apple banana cherry apple orange banana
+JAVA treeSet hashSet orange python algorithm Data
+generics interface collection data structures Java
