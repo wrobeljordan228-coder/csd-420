@@ -7,8 +7,8 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /**
- * Word Order Processor
- * Read words from a local text file, filter duplicates,
+ * Module 5.2
+ * Read words from a text file, filter duplicates,
  * and display unique words in ascending and descending alphabetical order.
  */
 public class WordReader {

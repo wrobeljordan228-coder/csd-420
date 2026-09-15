@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Ignore downloaded SDKs and JARs
+javafx-sdk*/
+*.jar
+
+# Ignore compiled Java class files
+*.class
+bin/
+
+# Ignore IDE temporary folders
+.vscode/

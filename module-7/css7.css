@@ -1,0 +1,29 @@
+/* Style class for plain circles (white fill, black stroke) */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/* ID selector for a plain circle */
+#plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/* ID selector for red circle */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+/* ID selector for green circle */
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
+
+/* Border container for the first circle */
+#border {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
